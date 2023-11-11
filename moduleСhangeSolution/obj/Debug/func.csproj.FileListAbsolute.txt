@@ -1,0 +1,7 @@
+F:\Ilya\Programming\func\func\bin\Debug\func.exe.config
+F:\Ilya\Programming\func\func\bin\Debug\func.exe
+F:\Ilya\Programming\func\func\bin\Debug\func.pdb
+F:\Ilya\Programming\func\func\obj\Debug\func.csproj.AssemblyReference.cache
+F:\Ilya\Programming\func\func\obj\Debug\func.csproj.CoreCompileInputs.cache
+F:\Ilya\Programming\func\func\obj\Debug\func.exe
+F:\Ilya\Programming\func\func\obj\Debug\func.pdb
